@@ -1,0 +1,14 @@
+layout_spectrum: 0.6899114
+typography_spectrum: 0.4856631
+color:
+  saturation: 0.6043857
+  lightness: 0.8289519
+  brandStrength: 0.9856631
+  brandColors:
+    - '#9FBF15'
+    - '#000000'
+    - '#FFFFFF'
+    - '#CFDF8A'
+    - '#B7CF4F'
+  rhythmicContrast: 0.5716846
+name: Leapfrog
